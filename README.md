@@ -1,2 +1,0 @@
-# MeuProjetoExemplo
-exemplo de projeto
